@@ -137,9 +137,7 @@ if(isset($_POST["form"]))
 
 <header>
 
-<h1 class="glitch is-glitching" data-text="Hover me!">OrangeBox</h1>
-
-<h2>Fix me :D</h2>
+ <h1>OrangeBox</h1>
 
 </header>
 
@@ -152,7 +150,6 @@ if(isset($_POST["form"]))
             <td><font color="#ffb717">Login</font></td>
             <!--    -->
             <td><a href="info.php">Info</a></td>
-            <td><a href="training.php">Talks & Training</a></td>
 
         </tr>
 

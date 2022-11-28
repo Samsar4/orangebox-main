@@ -94,7 +94,7 @@ if(isset($_REQUEST["url"]) && ($_COOKIE["security_level"] != "1" && $_COOKIE["se
     
 <header>
 
-<h1 class="glitch is-glitching" data-text="Hover me!">OrangeBox</h1>
+ <h1>OrangeBox</h1>
 
  
 

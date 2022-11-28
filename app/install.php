@@ -202,7 +202,7 @@ if(isset($_REQUEST["install"]) && $_REQUEST["install"] == "yes")
 
 <header>
 
-<h1 class="glitch is-glitching" data-text="Hover me!">OrangeBox</h1>
+ <h1>OrangeBox</h1>
 
  
 
@@ -235,7 +235,7 @@ if(isset($_REQUEST["install"]) && $_REQUEST["install"] == "yes")
  
             <td><font color="#ffb717">Install</font></td>
             <td><a href="info_install.php">Info</a></td>
-			<td><a href="training_install.php">Talks & Training</a></td>
+
    
         <?php
 

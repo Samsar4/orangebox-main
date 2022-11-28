@@ -51,7 +51,7 @@ if(isset($_REQUEST["ReturnUrl"]) && ($_COOKIE["security_level"] != "1" && $_COOK
     
 <header>
 
-<h1 class="glitch is-glitching" data-text="Hover me!">OrangeBox</h1>
+ <h1>OrangeBox</h1>
 
  
 

@@ -25,7 +25,7 @@
 
 <header>
 
-<h1 class="glitch is-glitching" data-text="Hover me!">OrangeBox</h1>
+ <h1>OrangeBox</h1>
 
  
 
@@ -40,7 +40,6 @@
             <td><a href="login.php">Login</a></td>
                
             <td><font color="#ffb717">Info</font></td>
-            <td><a href="training.php">Talks & Training</a></td>
    
 
         </tr>
@@ -62,14 +61,13 @@
 
     <p>OrangeBox is a PHP application that uses a MySQL database. It can be hosted on Linux, Windows and Mac with Apache/IIS and MySQL.
     It can also be installed with WAMP or XAMPP.<br />
-    Another possibility is to download the <i>bee-box</i>, a custom Linux VM pre-installed with OrangeBox.</p>
 
-    <p>Download our <a href="http://goo.gl/uVBGnq" target="_blank">What is OrangeBox?</a> introduction tutorial, including free exercises...</p>
+    <p>Download our <a href="https://github.com/Samsar4/orangebox-main" target="_blank">What is OrangeBox?</a> introduction tutorial, including free exercises...</p>
 
     <p>OrangeBox is for educational purposes. Education, the most powerful weapon which we can use to change the world.
     Have fun with this free and open source project!</p>
 
-    <p>Cheers, Malik Mesellem</p>
+     
 
 </div>
 

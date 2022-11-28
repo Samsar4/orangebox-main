@@ -97,7 +97,7 @@ if(!$recordset)
 
 <header>
 
-<h1 class="glitch is-glitching" data-text="Hover me!">OrangeBox</h1>
+ <h1>OrangeBox</h1>
 
  
 

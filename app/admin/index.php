@@ -69,7 +69,7 @@ else
 
 <header>
 
-<h1 class="glitch is-glitching" data-text="Hover me!">OrangeBox</h1>
+ <h1>OrangeBox</h1>
 
  
 
@@ -145,15 +145,6 @@ else
         </tr>
 
     </table>
-
-</div>
-
-<div id="side">
-
-    <a href="http://itsecgames.blogspot.com" target="blank_" class="button"><img src="../images/blogger.png"></a>
-    <a href="http://be.linkedin.com/in/malikmesellem" target="blank_" class="button"><img src="../images/linkedin.png"></a>
-    <a href="http://twitter.com/MME_IT" target="blank_" class="button"><img src="../images/twitter.png"></a>
-    <a href="http://www.facebook.com/pages/MME-IT-Audits-Security/104153019664877" target="blank_" class="button"><img src="../images/facebook.png"></a>
 
 </div>
 
