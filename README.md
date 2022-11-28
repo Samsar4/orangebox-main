@@ -5,7 +5,7 @@ This is a simple Docker image for the OWASP application designed to teach and de
 This Docker image automates this tedious process and provides you with a click and run solution that will provide you with a bWAPP instance in a few seconds.
 
 # Container Setup 📦
-## Pull the Docker image and run :D
+### Pull the Docker image and run :D
 - This repo provides you with a prebuilt Docker image
 ```
 docker pull s4msar4/orangebox
@@ -17,8 +17,7 @@ docker run -d -p 80:80 s4msar4/orangebox
 ```
 
 # Editing the container 🔬
-## If you want to make your own changes to the project you can simply clone this repo and do whatever you need.
-https://hub.docker.com/r/s4msar4/orangebox
+### If you want to make your own changes to the project you can simply clone this repo and do whatever you need.
 ```
 git clone https://github.com/Samsar4/orangebox-main && cd orangebox-main
 ```
